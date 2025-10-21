@@ -32,23 +32,23 @@ This is a simple Python script that provides a graphical user interface (GUI) fo
     ```
 
 2.  **Add PDF Files:**
-    *   Click the "Hinzufügen" (Add) button.
+    *   Click the "Add" button.
     *   Select one or more PDF files from your computer. These will appear in the list on the left.
 
 3.  **Manage Files (Optional):**
-    *   **Remove:** Select one or more files in the list and click "Entfernen" (Remove) to remove them.
-    *   **Reorder:** Select a file and use the "Nach oben" (Move Up) or "Nach unten" (Move Down) buttons to change its position in the merge order.
+    *   **Remove:** Select one or more files in the list and click "Remove" to remove them.
+    *   **Reorder:** Select a file and use the "Move Up" or "Move Down" buttons to change its position in the merge order.
 
 4.  **Choose Output Location (Optional but Recommended):**
-    *   Click the "Als... (Ziel wählen)" (Save As... (Choose Target)) button to specify the name and location for your merged PDF file. If you don't do this, you will be prompted to choose a location when you click "Zusammenführen".
+    *   Click the "Save As... (Choose Destination)" button to specify the name and location for your merged PDF file. If you don't do this, you will be prompted to choose a location when you click "Merge".
 
 5.  **Merge PDFs:**
-    *   Click the "Zusammenführen (Merge)" button.
+    *   Click the "Merge" button.
     *   If you haven't already specified an output file, a dialog will appear asking you to choose a save location and filename for the merged PDF.
     *   The application will merge the PDFs in the order they appear in the list and save the result to the specified location.
 
 6.  **Clear List:**
-    *   Click "Liste leeren" (Clear List) to remove all files from the current list.
+    *   Click "Clear List" to remove all files from the current list.
 
 ## License
 
